@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/Neko"><img src="https://github.com/Camille1993/Camille1993/blob/master/devcard.svg" width="400" alt="Camille Hautois's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Camille1993/Camille1993/blob/master/devcard.svg" width="400" alt="Camille Hautois's Dev Card"/></a>
 <!--
 **Camille1993/Camille1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
